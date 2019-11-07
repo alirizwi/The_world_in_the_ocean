@@ -1,9 +1,6 @@
 # The world in the ocean
-=================
-
 
 ## DEVELOPMENT
-===========
 
 The game is 100% client side javascript and css. It should run when served up by any web server.
 
